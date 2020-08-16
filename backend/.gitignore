@@ -1,0 +1,6 @@
+env
+.env.local
+.env.staging
+.vscode
+__pycache__
+.history
